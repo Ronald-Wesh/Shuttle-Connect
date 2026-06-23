@@ -1,0 +1,6 @@
+{
+  "name": "TransitLink Admin Dashboard",
+  "description": "A comprehensive fleet management, routes, earnings, and operator admin dashboard for TransitLink and its operators like Mololine and North Rift.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
